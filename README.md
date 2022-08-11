@@ -2,5 +2,7 @@
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hahhhha)](https://solved.ac/hahhhha)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hahhhha)](https://solved.ac/hahhhha)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hahhhha)](https://solved.ac/hahhhha)
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=hahhhha)](https://solved.ac/hahhhha)
 
